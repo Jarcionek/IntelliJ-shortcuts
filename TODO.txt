@@ -1,0 +1,42 @@
+CODE NAVIGATION
+- alt+left - go back
+- alt+right - go forward
+- ctrl+E - recently used files
+- ctrl+shift+T - go to test
+    - test class naming convention
+- bookmarks
+    - alt+2
+    - F11
+    - ctrl+shift+<digit>
+- ctrl+alt+F7 - search with popup
+- ctrl+D - diff between selected files
+
+REFACTORING
+- ctrl+W - expand selection
+- ctrl+shift+V (clipboard history)
+- ctrl+alt+shift+T - refactoring
+- ctrl+alt+V/M/P - extract to variable, method, parameter
+- ctrl+alt+N - inline
+- ctrl+shift+J - wrap line
+- ctrl+shift+U - to upper/lower case
+- column selection mode
+    - alt+<left click drag> - line of carets
+    - alt+shift+<left click> - add new caret
+    - alt+shift+insert - switch mode
+- regex to upper case
+    - example: with column selection mode and regex,  transform UserDao to User (flat structure with multiple fields)
+
+DEBUGGING
+- evaluate expression
+- conditional breakpoints
+
+GIT
+- alt+9
+    - reword
+    - select multiple commits to see joined diff
+- VCS/Git/Rebase...
+- ctrl+K - commit
+- ctrl+shift+K - push
+
+OTHER
+- scratch files
