@@ -4,16 +4,23 @@ CODE NAVIGATION
 - ctrl+E - recently used files
 - ctrl+shift+T - go to test
     - test class naming convention
+- ctrl+alt+F7 - search with popup
+- ctrl+D - diff between selected files
+- F4 - go to source (e.g. from diff view)
+- ctrl+P - show parameters
+
+NOTES AND MARKERS
 - bookmarks
     - alt+2
     - F11
     - ctrl+shift+<digit>
-- ctrl+alt+F7 - search with popup
-- ctrl+D - diff between selected files
-- F4 - go to source (e.g. from diff view)
+- scratch files
 
 REFACTORING
 - ctrl+W - expand selection
+- ctrl+D - duplicate selection
+- ctrl+Y - delete line
+- ctrl+shift-up/down - move block up/down
 - ctrl+shift+V (clipboard history)
 - ctrl+alt+shift+T - refactoring
 - ctrl+alt+V/M/P - extract to variable, method, parameter
@@ -33,11 +40,12 @@ DEBUGGING
 
 GIT
 - alt+9
-    - reword
+    - reword commit message
     - select multiple commits to see joined diff
+- bottom right corner
+    - create branch
+    - delete branch
+    - checkout branch
 - VCS/Git/Rebase...
 - ctrl+K - commit
 - ctrl+shift+K - push
-
-OTHER
-- scratch files
