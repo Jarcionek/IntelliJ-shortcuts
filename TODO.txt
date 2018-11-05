@@ -10,6 +10,7 @@ CODE NAVIGATION
     - ctrl+shift+<digit>
 - ctrl+alt+F7 - search with popup
 - ctrl+D - diff between selected files
+- F4 - go to source (e.g. from diff view)
 
 REFACTORING
 - ctrl+W - expand selection
