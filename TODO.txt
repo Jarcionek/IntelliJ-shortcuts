@@ -28,7 +28,7 @@ REFACTORING
 - ctrl+shift+J - wrap line
 - ctrl+shift+U - to upper/lower case
 - column selection mode
-    - alt+<left click drag> - line of carets
+    - alt+<left click drag> or alt+<mouse wheel click drag> - line of carets
     - alt+shift+<left click> - add new caret
     - alt+shift+insert - switch mode
 - regex to upper case
